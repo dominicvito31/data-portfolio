@@ -94,16 +94,16 @@ https://github.com/dominicvito31/retail-webscraping-etl
 # Skills Demonstrated
 
 Data Engineering
-• ETL pipeline development
-• Workflow orchestration
-• Data warehouse modeling
+* ETL pipeline development
+* Workflow orchestration
+* Data warehouse modeling
 
 Data Analysis
-• Exploratory data analysis
-• Statistical testing
-• Business KPI analysis
+* Exploratory data analysis
+* Statistical testing
+* Business KPI analysis
 
 Data Management
-• SQL database design
-• Data quality validation
-• Schema modeling
+* SQL database design
+* Data quality validation
+* Schema modeling
