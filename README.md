@@ -4,7 +4,7 @@ This repository contains a collection of end-to-end data engineering and analyti
 
 ## Tech Stack
 
-Python • PySpark • SQL • PostgreSQL • MongoDB • Apache Airflow • Docker • Great Expectations • Tableau • Pandas • BeautifulSoup
+Python • PySpark • PostgreSQL • Apache Airflow • Docker • Great Expectations • Tableau • Pandas • BeautifulSoup
 
 ---
 
